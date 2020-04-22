@@ -16,5 +16,7 @@ python>=3.6
 pip install tensorflow, tensorflow-addons
 ### Train
 python train.py
+训练截图：
+
 ### Test
 under construction
