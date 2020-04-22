@@ -15,6 +15,7 @@ The repository is under construction.
 python>=3.6
 pip install tensorflow, tensorflow-addons
 ### Train
+将数据解压分为data_seq_train.txt和data_sec_train.txt <br>
 python train.py
 训练截图：
 
