@@ -21,4 +21,4 @@ python train.py <br>
 ![xuzhiyuan](https://github.com/jaykay233/TF2.0-TENER/blob/master/log/train_images.png)
 
 ### Test
-under construction
+python predict.py
