@@ -18,7 +18,7 @@ pip install tensorflow, tensorflow-addons
 将数据解压分为data_seq_train.txt和data_sec_train.txt <br>
 python train.py <br>
 训练截图：
-![xuzhiyuan](https://xxxxxx.github.io/项目名称/images/图片名称.png)
+![xuzhiyuan](https://github.com/jaykay233/TF2.0-TENER/blob/master/log/train_images.png)
 
 ### Test
 under construction
