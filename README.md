@@ -7,7 +7,7 @@ Reference:<br>
 https://github.com/saiwaiyanyu/bi-lstm-crf-ner-tf2.0 <br>
 https://github.com/fastnlp/TENER <br>
 
-The repository is under construction.
+This respository is a demo for testing TENER, only for purpose of study.
 ---
 ### Data: <br>
 天池大赛蛋白质二级结构预测数据集
